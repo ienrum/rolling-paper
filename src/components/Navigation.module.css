@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+
+  font-size: large;
+  font-weight: bold;
+  font-family: sans-serif;
+
+  transition: all 0.2s ease-in-out;
+}
+
+.link:hover {
+  color: #4ab5f3;
+
+  transform: scale(1.1);
+}
