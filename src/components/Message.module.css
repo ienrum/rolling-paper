@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+
+  width: 500px;
+  height: auto;
+}
+
+.text {
+  /* 단어가 너무 길어질 경우 줄바꿈 처리 */
+  word-break: break-all;
+
+  width: 300px;
+  height: auto;
+}
+
+.messageContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  /* 단어가 너무 길어질 경우 줄바꿈 처리 */
+  word-break: break-all;
+
+  font-size: 17px;
+
+  width: 400px;
+  height: auto;
+}
+.editButton {
+  cursor: pointer;
+
+  font-size: 0.6rem;
+
+  width: 15x;
+  height: 30px;
+}
+.buttonContainer {
+  font-size: 10px;
+}
