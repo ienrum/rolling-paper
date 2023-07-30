@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rollingpaper/static/css/main.55c25395.css",
+    "main.js": "/rollingpaper/static/js/main.6a600528.js",
+    "static/js/787.aa3571b5.chunk.js": "/rollingpaper/static/js/787.aa3571b5.chunk.js",
+    "index.html": "/rollingpaper/index.html",
+    "main.55c25395.css.map": "/rollingpaper/static/css/main.55c25395.css.map",
+    "main.6a600528.js.map": "/rollingpaper/static/js/main.6a600528.js.map",
+    "787.aa3571b5.chunk.js.map": "/rollingpaper/static/js/787.aa3571b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c25395.css",
+    "static/js/main.6a600528.js"
+  ]
+}
